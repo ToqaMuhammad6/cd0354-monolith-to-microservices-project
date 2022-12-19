@@ -1,0 +1,7 @@
+AWS_BUCKET=toqa-project-try
+AWS_PROFILE=default
+AWS_REGION=us-east-1
+JWT_SECRET=hello
+POSTGRESS_DB=postgres
+POSTGRESS_HOST=cdr.cyp0zvvuwdsg.us-east-1.rds.amazonaws.com
+URL=http://localhost:8100
